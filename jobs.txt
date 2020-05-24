@@ -1,2 +1,7 @@
 testing
+<<<<<<< HEAD
+=======
+testing
+testing
+>>>>>>> test
 testing
